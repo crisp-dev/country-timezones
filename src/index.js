@@ -11,7 +11,11 @@ Object.defineProperty(exports, "__esModule", {
 var dataForCountries = require("./data/countries.json");
 
 var getCountryTimezones = function(code) {
-  return dataForCountries[code.toUpperCase()];
+  if (dataForCountries[code.toUpperCase()]) {
+    return dataForCountries[code.toUpperCase()].timezones;
+  }
+
+  return null;
 };
 
 /**************************************************************************
