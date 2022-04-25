@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "name": "country-timezones",
   "description": "Toolkit to manage countries and timezones",
   "author": "Baptiste Jamin <baptiste@crisp.chat>",

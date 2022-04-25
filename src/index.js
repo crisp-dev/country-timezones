@@ -8,7 +8,7 @@ Object.defineProperty(exports, "__esModule", {
  * IMPORTS
  ***************************************************************************/
 
-var dataForCountries = require("./data/countries.js");
+var dataForCountries = require("./data/countries.json");
 
 var getCountryTimezones = function(code) {
   return dataForCountries[code.toUpperCase()];
