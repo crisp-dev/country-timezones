@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "name": "country-timezones",
+  "description": "Toolkit to manage countries and timezones",
+  "author": "Baptiste Jamin <baptiste@crisp.chat>",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crisp-dev/country-timezones"
+  },
+  "bugs": {
+    "url": "https://github.com/crisp-dev/ccountry-timezones/issues"
+  },
+  "keywords": [
+    "country",
+    "countries",
+    "timezone",
+    "timezone",
+    "ISO 3166-1-alpha-2",
+    "ISO 3166-1"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,2205 @@
+{
+  "AD": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "AE": {
+    "timezones": {
+      "ust": [
+        240
+      ],
+      "dst": []
+    }
+  },
+  "AF": {
+    "timezones": {
+      "ust": [
+        270
+      ],
+      "dst": []
+    }
+  },
+  "AG": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "AI": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "AL": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "AM": {
+    "timezones": {
+      "ust": [
+        240
+      ],
+      "dst": []
+    }
+  },
+  "AO": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "AQ": {
+    "timezones": {
+      "ust": [
+        660,
+        420,
+        300,
+        -180,
+        360,
+        180,
+        720,
+        600
+      ],
+      "dst": [
+        120,
+        780
+      ]
+    }
+  },
+  "AR": {
+    "timezones": {
+      "ust": [
+        -180
+      ],
+      "dst": []
+    }
+  },
+  "AS": {
+    "timezones": {
+      "ust": [
+        -660
+      ],
+      "dst": []
+    }
+  },
+  "AT": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "AU": {
+    "timezones": {
+      "ust": [
+        600,
+        570,
+        525,
+        630,
+        480
+      ],
+      "dst": [
+        660,
+        630
+      ]
+    }
+  },
+  "AW": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "AX": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "AZ": {
+    "timezones": {
+      "ust": [
+        240
+      ],
+      "dst": []
+    }
+  },
+  "BA": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "BB": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "BD": {
+    "timezones": {
+      "ust": [
+        360
+      ],
+      "dst": []
+    }
+  },
+  "BE": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "BF": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "BG": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "BH": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "BI": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "BJ": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "BL": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "BM": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": [
+        -180
+      ]
+    }
+  },
+  "BN": {
+    "timezones": {
+      "ust": [
+        480
+      ],
+      "dst": []
+    }
+  },
+  "BO": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "BQ": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "BR": {
+    "timezones": {
+      "ust": [
+        -180,
+        -240,
+        -300,
+        -120
+      ],
+      "dst": []
+    }
+  },
+  "BS": {
+    "timezones": {
+      "ust": [
+        -300
+      ],
+      "dst": [
+        -240
+      ]
+    }
+  },
+  "BT": {
+    "timezones": {
+      "ust": [
+        360
+      ],
+      "dst": []
+    }
+  },
+  "BV": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "BW": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "BY": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "BZ": {
+    "timezones": {
+      "ust": [
+        -360
+      ],
+      "dst": []
+    }
+  },
+  "CA": {
+    "timezones": {
+      "ust": [
+        -420,
+        -240,
+        -300,
+        -360,
+        -150,
+        -480
+      ],
+      "dst": [
+        -360,
+        -180,
+        -240,
+        -300,
+        -90,
+        -420
+      ]
+    }
+  },
+  "CC": {
+    "timezones": {
+      "ust": [
+        390
+      ],
+      "dst": []
+    }
+  },
+  "CD": {
+    "timezones": {
+      "ust": [
+        60,
+        120
+      ],
+      "dst": []
+    }
+  },
+  "CF": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "CG": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "CH": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "CI": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "CK": {
+    "timezones": {
+      "ust": [
+        -600
+      ],
+      "dst": []
+    }
+  },
+  "CL": {
+    "timezones": {
+      "ust": [
+        -180,
+        -240,
+        -360
+      ],
+      "dst": [
+        -180,
+        -300
+      ]
+    }
+  },
+  "CM": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "CN": {
+    "timezones": {
+      "ust": [
+        480,
+        360
+      ],
+      "dst": []
+    }
+  },
+  "CO": {
+    "timezones": {
+      "ust": [
+        -300
+      ],
+      "dst": []
+    }
+  },
+  "CR": {
+    "timezones": {
+      "ust": [
+        -360
+      ],
+      "dst": []
+    }
+  },
+  "CU": {
+    "timezones": {
+      "ust": [
+        -300
+      ],
+      "dst": [
+        -240
+      ]
+    }
+  },
+  "CV": {
+    "timezones": {
+      "ust": [
+        -60
+      ],
+      "dst": []
+    }
+  },
+  "CW": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "CX": {
+    "timezones": {
+      "ust": [
+        420
+      ],
+      "dst": []
+    }
+  },
+  "CY": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "CZ": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "DE": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "DJ": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "DK": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "DM": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "DO": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "DZ": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "EC": {
+    "timezones": {
+      "ust": [
+        -300,
+        -360
+      ],
+      "dst": []
+    }
+  },
+  "EE": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "EG": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "EH": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "ER": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "ES": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120,
+        60
+      ]
+    }
+  },
+  "ET": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "FI": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "FJ": {
+    "timezones": {
+      "ust": [
+        720
+      ],
+      "dst": [
+        780
+      ]
+    }
+  },
+  "FK": {
+    "timezones": {
+      "ust": [
+        -180
+      ],
+      "dst": []
+    }
+  },
+  "FM": {
+    "timezones": {
+      "ust": [
+        600,
+        660
+      ],
+      "dst": []
+    }
+  },
+  "FO": {
+    "timezones": {
+      "ust": [],
+      "dst": [
+        60
+      ]
+    }
+  },
+  "FR": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "GA": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "GB": {
+    "timezones": {
+      "ust": [],
+      "dst": [
+        60
+      ]
+    }
+  },
+  "GD": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "GE": {
+    "timezones": {
+      "ust": [
+        240
+      ],
+      "dst": []
+    }
+  },
+  "GF": {
+    "timezones": {
+      "ust": [
+        -180
+      ],
+      "dst": []
+    }
+  },
+  "GG": {
+    "timezones": {
+      "ust": [],
+      "dst": [
+        60
+      ]
+    }
+  },
+  "GH": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "GI": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "GL": {
+    "timezones": {
+      "ust": [
+        -180,
+        -60,
+        -240
+      ],
+      "dst": [
+        -120,
+        -180
+      ]
+    }
+  },
+  "GM": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "GN": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "GP": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "GQ": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "GR": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "GS": {
+    "timezones": {
+      "ust": [
+        -120
+      ],
+      "dst": []
+    }
+  },
+  "GT": {
+    "timezones": {
+      "ust": [
+        -360
+      ],
+      "dst": []
+    }
+  },
+  "GU": {
+    "timezones": {
+      "ust": [
+        600
+      ],
+      "dst": []
+    }
+  },
+  "GW": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "GY": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "HK": {
+    "timezones": {
+      "ust": [
+        480
+      ],
+      "dst": []
+    }
+  },
+  "HM": {
+    "timezones": {
+      "ust": [
+        300
+      ],
+      "dst": []
+    }
+  },
+  "HN": {
+    "timezones": {
+      "ust": [
+        -360
+      ],
+      "dst": []
+    }
+  },
+  "HR": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "HT": {
+    "timezones": {
+      "ust": [
+        -300
+      ],
+      "dst": [
+        -240
+      ]
+    }
+  },
+  "HU": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "ID": {
+    "timezones": {
+      "ust": [
+        420,
+        540,
+        480
+      ],
+      "dst": []
+    }
+  },
+  "IE": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "IL": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "IM": {
+    "timezones": {
+      "ust": [],
+      "dst": [
+        60
+      ]
+    }
+  },
+  "IN": {
+    "timezones": {
+      "ust": [
+        330
+      ],
+      "dst": []
+    }
+  },
+  "IO": {
+    "timezones": {
+      "ust": [
+        360
+      ],
+      "dst": []
+    }
+  },
+  "IQ": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "IR": {
+    "timezones": {
+      "ust": [
+        210
+      ],
+      "dst": [
+        270
+      ]
+    }
+  },
+  "IS": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "IT": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "JE": {
+    "timezones": {
+      "ust": [],
+      "dst": [
+        60
+      ]
+    }
+  },
+  "JM": {
+    "timezones": {
+      "ust": [
+        -300
+      ],
+      "dst": []
+    }
+  },
+  "JO": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "JP": {
+    "timezones": {
+      "ust": [
+        540
+      ],
+      "dst": []
+    }
+  },
+  "KE": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "KG": {
+    "timezones": {
+      "ust": [
+        360
+      ],
+      "dst": []
+    }
+  },
+  "KH": {
+    "timezones": {
+      "ust": [
+        420
+      ],
+      "dst": []
+    }
+  },
+  "KI": {
+    "timezones": {
+      "ust": [
+        780,
+        840,
+        720
+      ],
+      "dst": []
+    }
+  },
+  "KM": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "KN": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "KP": {
+    "timezones": {
+      "ust": [
+        540
+      ],
+      "dst": []
+    }
+  },
+  "KR": {
+    "timezones": {
+      "ust": [
+        540
+      ],
+      "dst": []
+    }
+  },
+  "KW": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "KY": {
+    "timezones": {
+      "ust": [
+        -300
+      ],
+      "dst": []
+    }
+  },
+  "KZ": {
+    "timezones": {
+      "ust": [
+        360,
+        300
+      ],
+      "dst": []
+    }
+  },
+  "LA": {
+    "timezones": {
+      "ust": [
+        420
+      ],
+      "dst": []
+    }
+  },
+  "LB": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "LC": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "LI": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "LK": {
+    "timezones": {
+      "ust": [
+        330
+      ],
+      "dst": []
+    }
+  },
+  "LR": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "LS": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "LT": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "LU": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "LV": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "LY": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "MA": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "MC": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "MD": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "ME": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "MF": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "MG": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "MH": {
+    "timezones": {
+      "ust": [
+        720
+      ],
+      "dst": []
+    }
+  },
+  "MK": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "ML": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "MM": {
+    "timezones": {
+      "ust": [
+        390
+      ],
+      "dst": []
+    }
+  },
+  "MN": {
+    "timezones": {
+      "ust": [
+        480,
+        420
+      ],
+      "dst": []
+    }
+  },
+  "MO": {
+    "timezones": {
+      "ust": [
+        480
+      ],
+      "dst": []
+    }
+  },
+  "MP": {
+    "timezones": {
+      "ust": [
+        600
+      ],
+      "dst": []
+    }
+  },
+  "MQ": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "MR": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "MS": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "MT": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "MU": {
+    "timezones": {
+      "ust": [
+        240
+      ],
+      "dst": []
+    }
+  },
+  "MV": {
+    "timezones": {
+      "ust": [
+        300
+      ],
+      "dst": []
+    }
+  },
+  "MW": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "MX": {
+    "timezones": {
+      "ust": [
+        -360,
+        -300,
+        -420,
+        -480
+      ],
+      "dst": [
+        -300,
+        -360,
+        -420
+      ]
+    }
+  },
+  "MY": {
+    "timezones": {
+      "ust": [
+        480
+      ],
+      "dst": []
+    }
+  },
+  "MZ": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "NA": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "NC": {
+    "timezones": {
+      "ust": [
+        660
+      ],
+      "dst": []
+    }
+  },
+  "NE": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "NF": {
+    "timezones": {
+      "ust": [
+        660
+      ],
+      "dst": [
+        720
+      ]
+    }
+  },
+  "NG": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "NI": {
+    "timezones": {
+      "ust": [
+        -360
+      ],
+      "dst": []
+    }
+  },
+  "NL": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "NO": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "NP": {
+    "timezones": {
+      "ust": [
+        345
+      ],
+      "dst": []
+    }
+  },
+  "NR": {
+    "timezones": {
+      "ust": [
+        720
+      ],
+      "dst": []
+    }
+  },
+  "NU": {
+    "timezones": {
+      "ust": [
+        -660
+      ],
+      "dst": []
+    }
+  },
+  "NZ": {
+    "timezones": {
+      "ust": [
+        720,
+        765
+      ],
+      "dst": [
+        780,
+        825
+      ]
+    }
+  },
+  "OM": {
+    "timezones": {
+      "ust": [
+        240
+      ],
+      "dst": []
+    }
+  },
+  "PA": {
+    "timezones": {
+      "ust": [
+        -300
+      ],
+      "dst": []
+    }
+  },
+  "PE": {
+    "timezones": {
+      "ust": [
+        -300
+      ],
+      "dst": []
+    }
+  },
+  "PF": {
+    "timezones": {
+      "ust": [
+        -540,
+        -510,
+        -600
+      ],
+      "dst": []
+    }
+  },
+  "PG": {
+    "timezones": {
+      "ust": [
+        660,
+        600
+      ],
+      "dst": []
+    }
+  },
+  "PH": {
+    "timezones": {
+      "ust": [
+        480
+      ],
+      "dst": []
+    }
+  },
+  "PK": {
+    "timezones": {
+      "ust": [
+        300
+      ],
+      "dst": []
+    }
+  },
+  "PL": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "PM": {
+    "timezones": {
+      "ust": [
+        -180
+      ],
+      "dst": [
+        -120
+      ]
+    }
+  },
+  "PN": {
+    "timezones": {
+      "ust": [
+        -480
+      ],
+      "dst": []
+    }
+  },
+  "PR": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "PS": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "PT": {
+    "timezones": {
+      "ust": [
+        -60
+      ],
+      "dst": [
+        60
+      ]
+    }
+  },
+  "PW": {
+    "timezones": {
+      "ust": [
+        540
+      ],
+      "dst": []
+    }
+  },
+  "PY": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": [
+        -180
+      ]
+    }
+  },
+  "QA": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "RE": {
+    "timezones": {
+      "ust": [
+        240
+      ],
+      "dst": []
+    }
+  },
+  "RO": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "RS": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "RU": {
+    "timezones": {
+      "ust": [
+        720,
+        420,
+        540,
+        480,
+        660,
+        360,
+        600,
+        300,
+        240,
+        120,
+        180
+      ],
+      "dst": []
+    }
+  },
+  "RW": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "SA": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "SB": {
+    "timezones": {
+      "ust": [
+        660
+      ],
+      "dst": []
+    }
+  },
+  "SC": {
+    "timezones": {
+      "ust": [
+        240
+      ],
+      "dst": []
+    }
+  },
+  "SD": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "SE": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "SG": {
+    "timezones": {
+      "ust": [
+        480
+      ],
+      "dst": []
+    }
+  },
+  "SH": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "SI": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "SJ": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "SK": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "SL": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "SM": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "SN": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "SO": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "SR": {
+    "timezones": {
+      "ust": [
+        -180
+      ],
+      "dst": []
+    }
+  },
+  "SS": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "ST": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "SV": {
+    "timezones": {
+      "ust": [
+        -360
+      ],
+      "dst": []
+    }
+  },
+  "SX": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "SY": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "SZ": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "TC": {
+    "timezones": {
+      "ust": [
+        -300
+      ],
+      "dst": [
+        -240
+      ]
+    }
+  },
+  "TD": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "TF": {
+    "timezones": {
+      "ust": [
+        300,
+        240
+      ],
+      "dst": []
+    }
+  },
+  "TG": {
+    "timezones": {
+      "ust": [
+        0
+      ],
+      "dst": []
+    }
+  },
+  "TH": {
+    "timezones": {
+      "ust": [
+        420
+      ],
+      "dst": []
+    }
+  },
+  "TJ": {
+    "timezones": {
+      "ust": [
+        300
+      ],
+      "dst": []
+    }
+  },
+  "TK": {
+    "timezones": {
+      "ust": [
+        780
+      ],
+      "dst": []
+    }
+  },
+  "TL": {
+    "timezones": {
+      "ust": [
+        540
+      ],
+      "dst": []
+    }
+  },
+  "TM": {
+    "timezones": {
+      "ust": [
+        300
+      ],
+      "dst": []
+    }
+  },
+  "TN": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": []
+    }
+  },
+  "TO": {
+    "timezones": {
+      "ust": [
+        780
+      ],
+      "dst": []
+    }
+  },
+  "TR": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "TT": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "TV": {
+    "timezones": {
+      "ust": [
+        720
+      ],
+      "dst": []
+    }
+  },
+  "TW": {
+    "timezones": {
+      "ust": [
+        480
+      ],
+      "dst": []
+    }
+  },
+  "TZ": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "UA": {
+    "timezones": {
+      "ust": [
+        120,
+        180
+      ],
+      "dst": [
+        180
+      ]
+    }
+  },
+  "UG": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "UM": {
+    "timezones": {
+      "ust": [
+        -600,
+        -660,
+        720
+      ],
+      "dst": []
+    }
+  },
+  "US": {
+    "timezones": {
+      "ust": [
+        -600,
+        -540,
+        -420,
+        -360,
+        -300,
+        -480
+      ],
+      "dst": [
+        -540,
+        -480,
+        -360,
+        -300,
+        -240,
+        -420
+      ]
+    }
+  },
+  "UY": {
+    "timezones": {
+      "ust": [
+        -180
+      ],
+      "dst": []
+    }
+  },
+  "UZ": {
+    "timezones": {
+      "ust": [
+        300
+      ],
+      "dst": []
+    }
+  },
+  "VA": {
+    "timezones": {
+      "ust": [
+        60
+      ],
+      "dst": [
+        120
+      ]
+    }
+  },
+  "VC": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "VE": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "VG": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "VI": {
+    "timezones": {
+      "ust": [
+        -240
+      ],
+      "dst": []
+    }
+  },
+  "VN": {
+    "timezones": {
+      "ust": [
+        420
+      ],
+      "dst": []
+    }
+  },
+  "VU": {
+    "timezones": {
+      "ust": [
+        660
+      ],
+      "dst": []
+    }
+  },
+  "WF": {
+    "timezones": {
+      "ust": [
+        720
+      ],
+      "dst": []
+    }
+  },
+  "WS": {
+    "timezones": {
+      "ust": [
+        780
+      ],
+      "dst": []
+    }
+  },
+  "YE": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "YT": {
+    "timezones": {
+      "ust": [
+        180
+      ],
+      "dst": []
+    }
+  },
+  "ZA": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "ZM": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  },
+  "ZW": {
+    "timezones": {
+      "ust": [
+        120
+      ],
+      "dst": []
+    }
+  }
+}
